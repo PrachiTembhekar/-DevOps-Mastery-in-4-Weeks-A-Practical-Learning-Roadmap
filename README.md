@@ -1,4 +1,4 @@
-# -DevOps-Mastery-in-30-Days-A-Practical-Learning-Roadmap
+# DevOps-Mastery-in-30-Days-A-Practical-Learning-Roadmap
 
 **Week 1: Understanding DevOps Fundamentals**
 
