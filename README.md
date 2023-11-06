@@ -1262,14 +1262,47 @@ resource "aws_instance" "example" {
   instance_type = "t2.micro"
 }
 
-In addition, create a variables.tf file to define variables and a terraform.tfvars file to specify variable values.
+#variables.tf
+variable "region" {
+  description = "AWS region"
+  type        = string
+  default     = "us-west-2"
+}
+
+#terraform.tfvars
+region = "us-west-2"
 
 Install Terraform on your local machine.
+
+Create a main.tf file with the above HCL script.
+
+Create variables.tf to define variables and terraform.tfvars to specify variable values.
 
 Run the following commands:
 
 terraform init
 terraform apply
+
+**Using AWS CloudFormation (JSON Script):**
+
+{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Resources": {
+    "MyInstance": {
+      "Type": "AWS::EC2::Instance",
+      "Properties": {
+        "InstanceType": "t2.micro",
+        "ImageId": "ami-0c55b159cbfafe1f0"
+      }
+    }
+  }
+}
+
+Use the AWS Management Console or AWS CLI to create a CloudFormation stack.
+
+Upload the JSON script above as a CloudFormation template.
+
+Follow the stack creation process.
 
 ### Resources for Learning IaC
 
@@ -1282,3 +1315,60 @@ terraform apply
 ## Conclusion
 
 This chapter introduced Infrastructure as Code (IaC) as a fundamental practice in DevOps. IaC automates infrastructure provisioning and management, providing consistency and version control. We explored two key IaC tools, Terraform and AWS CloudFormation, with practical examples and code snippets. In the upcoming chapters, we'll continue to explore more tools and practices in the DevOps landscape.
+
+# Programming with Python in DevOps
+
+In this chapter, we'll explore the significant role of Python in DevOps. Python is a versatile and widely used programming language, known for its simplicity and extensive library support. We'll delve into how Python can be leveraged in various DevOps tasks, provide practical examples, code snippets, valuable links, and references to related tools and services.
+
+## Python in DevOps
+
+Python has become a cornerstone in the world of DevOps due to its flexibility, readability, and the availability of numerous libraries and frameworks. It's used for automating tasks, building infrastructure, and developing monitoring and management tools. Let's dive into its applications within DevOps.
+
+### Key Use Cases of Python in DevOps
+
+1. **Automation**: Python scripts are employed for automating routine tasks like configuration management, deployment, and testing.
+
+2. **Infrastructure as Code (IaC)**: Tools like Ansible and Terraform use Python to define infrastructure.
+
+3. **Continuous Integration and Continuous Deployment (CI/CD)**: Python scripts and libraries are integrated into CI/CD pipelines for automated testing and deployment.
+
+4. **Monitoring and Logging**: Python is used to build custom monitoring and log analysis tools.
+
+### Practical Example: Automating AWS Resources with Boto3
+
+Let's automate AWS resource creation and management using Python and Boto3, the official AWS SDK:
+
+```python
+import boto3
+
+# Initialize the AWS client
+ec2 = boto3.client('ec2')
+
+# Create an EC2 instance
+ec2.create_instances(
+    ImageId='ami-0c55b159cbfafe1f0',
+    MinCount=1,
+    MaxCount=1,
+    InstanceType='t2.micro'
+)
+```
+
+- Install the Boto3 library using `pip install boto3`.
+
+- Create a Python script with the above code to create an EC2 instance on AWS.
+
+- Run the script to provision an EC2 instance.
+
+### Resources for Python in DevOps
+
+- [Boto3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html): Learn about using Boto3 for AWS automation.
+
+- [Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html): Explore Ansible, an IaC tool using Python.
+
+- [Jenkins with Python](https://www.jenkins.io/doc/tutorials/tutorial-for-python/): A tutorial on integrating Jenkins with Python for CI/CD.
+
+- [Python in DevOps: A Practical Guide](https://www.pythonforbeginners.com/devops/python-devops): A comprehensive guide on using Python in DevOps.
+
+## Conclusion
+
+Python is a powerful and versatile programming language in the realm of DevOps, offering numerous possibilities for automation, infrastructure management, and more. This chapter provided insights into Python's role in DevOps, practical examples, and references to key tools and libraries. In the following chapters, we'll continue exploring the multifaceted landscape of DevOps.
