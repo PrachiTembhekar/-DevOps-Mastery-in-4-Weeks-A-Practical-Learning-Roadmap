@@ -1,6 +1,6 @@
 # DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap
 
-## [Introduction to DevOps]((https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#introduction-to-devops-1))
+## [Introduction to DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#introduction-to-devops-1)
 
 **Week 1: Understanding DevOps Fundamentals**
 
