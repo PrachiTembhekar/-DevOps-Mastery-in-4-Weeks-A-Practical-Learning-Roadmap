@@ -14,30 +14,31 @@
 - Cloud and Infrastructure as a Service Basics 
 - Artifact Repository Manager with Nexus 
 - Introduction to Containers and Docker 
-- Containers with Docker 
+- Containers with Docker
+- In-Depth CI/CD Practices 
 - Introduction to Jenkins 
 - Build Automation and CI/CD with Jenkins 
 
 **Week 3: Cloud Services and Infrastructure as Code**
 
-- AWS Services 
-- Kubernetes on AWS - EKS 
-- Infrastructure as Code with Terraform 
-- Introduction to Python 
-- Programming with Python 
-- Automation with Python 
-- Configuration Management with Ansible 
+- Introduction to Kubernetes 
+- Kubernetes in Depth 
+- Infrastructure as Code (IaC) 
+- Programming with Python in DevOps 
+- Automation with Python in DevOps 
+- Configuration Management in DevOps 
+- Introduction to Continuous Testing in DevOps 
 
 **Week 4: Advanced DevOps Topics**
 
-- Terraform and Infrastructure as Code
-- Python Scripting and Automation 
-- Configuration Management with Ansible 
-- Monitoring with Prometheus 
-- DevOps in Real Projects 
-- Cultural Transformation 
-- Continuous Learning and Certifications 
-- Wrapping It Up 
+- Monitoring and Alerting in DevOps
+- Logging and Tracing in DevOps 
+- Security in DevOps - Embracing DevSecOps Principles 
+- Performance and Scalability in DevOps 
+- DevOps in the Cloud - Harnessing Infrastructure Automation 
+- GitOps - A DevOps Approach with Git 
+- Preparing for Certification in DevOps 
+- DevOps in Real Projects and Wrapping It Up 
 - Graduation and Future Goals
 
 # Introduction to DevOps
