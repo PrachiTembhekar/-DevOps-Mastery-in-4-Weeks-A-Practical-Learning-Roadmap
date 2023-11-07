@@ -1,45 +1,48 @@
 # DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap
 
+## [Introduction to DevOps](https://pages.github.com/)
+
 **Week 1: Understanding DevOps Fundamentals**
 
 - [Defining DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#defining-devops)
-- Introduction to Version Control
-- Introduction to Git 
-- Basic Linux Fundamentals
-- Command-Line Interface (CLI) and Scripting 
+- [Introduction to Version Control](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#introduction-to-version-control)
+- [Introduction to Git](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#introduction-to-git)
+- [Basic Linux Fundamentals](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#basic-linux-fundamentals)
+- [Command-Line Interface (CLI) and Scripting](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#command-line-interface-cli-and-scripting)
 
 **Week 2: DevOps Tools and Infrastructure**
 
-- Build and Package Manager Tools 
-- Cloud and Infrastructure as a Service Basics 
-- Artifact Repository Manager with Nexus 
-- Introduction to Containers and Docker 
-- Containers with Docker
-- In-Depth CI/CD Practices 
-- Introduction to Jenkins 
-- Build Automation and CI/CD with Jenkins 
+- [Build and Package Manager Tools](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#build-and-package-manager-tools)
+- [Cloud and Infrastructure as a Service Basics](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#cloud-and-infrastructure-as-a-service-iaas-basics)
+- [Artifact Repository Manager with Nexus](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#artifact-repository-manager-with-nexus)
+- [Introduction to Containers and Docker](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#introduction-to-containers-and-docker)
+- [Containers with Docker](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#containers-with-docker)
+- [In-Depth CI/CD Practices](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#in-depth-cicd-practices)
+- [Introduction to Jenkins](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#introduction-to-jenkins)
+- [Build Automation and CI/CD with Jenkins](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#build-automation-and-cicd-with-jenkins)
+ 
 
 **Week 3: Cloud Services and Infrastructure as Code**
 
-- Introduction to Kubernetes 
-- Kubernetes in Depth 
-- Infrastructure as Code (IaC) 
-- Programming with Python in DevOps 
-- Automation with Python in DevOps 
-- Configuration Management in DevOps 
-- Introduction to Continuous Testing in DevOps 
+- [Introduction to Kubernetes](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#introduction-to-kubernetes)
+- [Kubernetes in Depth](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#kubernetes-in-depth)
+- [Infrastructure as Code (IaC)](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#infrastructure-as-code-iac)
+- [Programming with Python in DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#programming-with-python-in-devops)
+- [Automation with Python in DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#automation-with-python-in-devops)
+- [Configuration Management in DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#configuration-management-in-devops)
+- [Introduction to Continuous Testing in DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#introduction-to-continuous-testing-in-devops) 
 
 **Week 4: Advanced DevOps Topics**
 
-- Monitoring and Alerting in DevOps
-- Logging and Tracing in DevOps 
-- Security in DevOps - Embracing DevSecOps Principles 
-- Performance and Scalability in DevOps 
-- DevOps in the Cloud - Harnessing Infrastructure Automation 
-- GitOps - A DevOps Approach with Git 
-- Preparing for Certification in DevOps 
-- DevOps in Real Projects and Wrapping It Up 
-- Graduation and Future Goals
+- [Monitoring and Alerting in DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#monitoring-and-alerting-in-devops)
+- [Logging and Tracing in DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#logging-and-tracing-in-devops)
+- [Security in DevOps - Embracing DevSecOps Principles](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#security-in-devops---embracing-devsecops-principles)
+- [Performance and Scalability in DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#performance-and-scalability-in-devops)
+- [DevOps in the Cloud - Harnessing Infrastructure Automation](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#devops-in-the-cloud---harnessing-infrastructure-automation)
+- [GitOps - A DevOps Approach with Git](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#gitops---a-devops-approach-with-git)
+- [Preparing for Certification in DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#preparing-for-certification-in-devops)
+- [DevOps in Real Projects and Wrapping It Up](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#devops-in-real-projects-and-wrapping-it-up)
+- [Graduation and Future Goals](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#graduation-and-future-goals)
 
 # Introduction to DevOps
 
