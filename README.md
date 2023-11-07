@@ -1251,6 +1251,7 @@ Let's use Terraform to provision a virtual machine on AWS:
 
 **Using Terraform (HCL Script):**
 
+```hcl
 #main.tf
 provider "aws" {
   region = "us-west-2"
@@ -1270,20 +1271,22 @@ variable "region" {
 
 #terraform.tfvars
 region = "us-west-2"
+```
 
 Install Terraform on your local machine.
 
-Create a main.tf file with the above HCL script.
+Create a ```main.tf``` file with the above HCL script.
 
-Create variables.tf to define variables and terraform.tfvars to specify variable values.
+Create ```variables.tf``` to define variables and terraform.tfvars to specify variable values.
 
 Run the following commands:
-
+```bash
 terraform init
 terraform apply
+```
 
 **Using AWS CloudFormation (JSON Script):**
-
+```json
 {
   "AWSTemplateFormatVersion": "2010-09-09",
   "Resources": {
@@ -1296,7 +1299,7 @@ terraform apply
     }
   }
 }
-
+```
 Use the AWS Management Console or AWS CLI to create a CloudFormation stack.
 
 Upload the JSON script above as a CloudFormation template.
