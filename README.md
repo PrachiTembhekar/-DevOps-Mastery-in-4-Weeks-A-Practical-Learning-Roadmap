@@ -2,7 +2,7 @@
 
 **Week 1: Understanding DevOps Fundamentals**
 
-- Defining DevOps
+- [Defining DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#defining-devops)
 - Introduction to Version Control
 - Introduction to Git 
 - Basic Linux Fundamentals
