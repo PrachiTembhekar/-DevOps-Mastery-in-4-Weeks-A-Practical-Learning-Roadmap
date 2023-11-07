@@ -456,9 +456,7 @@ The CLI and scripting are fundamental skills for DevOps practitioners. This chap
 
 In the upcoming chapters, we'll explore how the CLI and scripting are integrated with various DevOps tools and practices, allowing you to unlock their full potential in your DevOps journey.
 
-Certainly, here's Chapter 7, focusing on "Build and Package Manager Tools" with practical examples and links to learn more:
-
----
+# Week 2: DevOps Tools and Infrastructure
 
 # Build and Package Manager Tools
 
