@@ -1,6 +1,6 @@
 # DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap
 
-![DevOps-Lifecycle](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/assets/60718974/96a31c93-5dee-4341-8f40-47494d9fa8cb =250x250)
+![DevOps-Lifecycle](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/assets/60718974/96a31c93-5dee-4341-8f40-47494d9fa8cb)
 
 ## [Introduction to DevOps](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/blob/main/README.md#introduction-to-devops-1)
 
