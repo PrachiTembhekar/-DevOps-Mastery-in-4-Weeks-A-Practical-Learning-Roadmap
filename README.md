@@ -1724,7 +1724,7 @@ Prometheus is an open-source monitoring and alerting toolkit designed for reliab
 
 **Grafana Dashboard for Prometheus:**
 
-![Prometheus Dashboard](https://example.com/prometheus-dashboard.png)
+![Prometheus Dashboard](![prometheus](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/assets/60718974/7a9c9613-476f-4c0d-a833-17b70b884e02)
 
 - [Prometheus Documentation](https://prometheus.io/docs/): Learn how to set up Prometheus for monitoring.
 
@@ -1734,7 +1734,7 @@ Grafana is an open-source platform for creating interactive and customizable das
 
 **Sample Grafana Dashboard:**
 
-![Grafana Dashboard](https://example.com/grafana-dashboard.png)
+![Grafana Dashboard](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/assets/60718974/7c2f0557-6150-4b41-931c-25c454bae776)
 
 - [Grafana Documentation](https://grafana.com/docs/): Explore Grafana's capabilities in dashboard creation and visualization.
 
@@ -1744,8 +1744,6 @@ Nagios is a popular open-source monitoring and alerting system. It is known for 
 
 **Nagios Alerting Example:**
 
-![Nagios Alert](https://example.com/nagios-alert.png)
-
 - [Nagios Documentation](https://www.nagios.org/documentation/): Discover how to set up Nagios for monitoring and alerting.
 
 #### New Relic:
@@ -1754,7 +1752,7 @@ New Relic is a cloud-based application performance monitoring (APM) solution. It
 
 **New Relic APM Dashboard:**
 
-![New Relic Dashboard](https://example.com/new-relic-dashboard.png)
+![New Relic Dashboard](![20190222-CodePipelineWebinar-Dashboard-Example](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/assets/60718974/b8232378-3762-44e4-ad84-442b26a7e4f4)
 
 - [New Relic Documentation](https://docs.newrelic.com/docs/using-new-relic/welcome-new-relic/get-started/introduction-new-relic): Explore New Relic's APM capabilities and setup.
 
@@ -1764,7 +1762,8 @@ Amazon CloudWatch is a comprehensive monitoring and management service for AWS r
 
 **Amazon CloudWatch Dashboard:**
 
-![CloudWatch Dashboard](https://example.com/cloudwatch-dashboard.png)
+![CloudWatch Dashboard](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/assets/60718974/6b71e19f-3954-4975-951c-bbc7a2c584ae)
+
 
 - [Amazon CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/): Learn how to use Amazon CloudWatch to monitor AWS resources.
 
@@ -1835,7 +1834,8 @@ Kibana is a user-friendly visualization tool that allows you to explore, visuali
 
 **Example Kibana Dashboard for Log Analysis:**
 
-![Kibana Dashboard](https://example.com/kibana-dashboard.png)
+![Kibana Dashboard](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/assets/60718974/06e87084-35a8-4675-9336-edb8b9014844)
+
 
 The ELK Stack is known for its ability to collect, parse, store, and visualize log data, making it a valuable tool for log management and analysis in DevOps.
 
@@ -1851,8 +1851,6 @@ OpenTelemetry is an open-source project that standardizes distributed tracing an
 
 **Sample OpenTelemetry Trace:**
 
-![OpenTelemetry Trace](https://example.com/opentelemetry-trace.png)
-
 - [OpenTelemetry Documentation](https://opentelemetry.io/docs/): Learn about OpenTelemetry for distributed tracing.
 
 #### Jaeger:
@@ -1861,7 +1859,8 @@ Jaeger is an open-source, end-to-end distributed tracing system that helps monit
 
 **Jaeger Trace Visualization:**
 
-![Jaeger Trace](https://example.com/jaeger-trace.png)
+![Jaeger Trace](https://github.com/PrachiTembhekar/-DevOps-Mastery-in-4-Weeks-A-Practical-Learning-Roadmap/assets/60718974/44130a04-16a1-4bb7-9e29-58671e0a53db)
+
 
 - [Jaeger Documentation](https://www.jaegertracing.io/docs/): Explore Jaeger for distributed tracing.
 
