@@ -152,6 +152,8 @@ In the world of DevOps, the traditional divide between development and operation
 
 In this chapter, we've embarked on a journey to define DevOps and understand its origins and core principles. DevOps is not merely a buzzword; it's a transformative approach that breaks down traditional silos and fosters collaboration between development and operations. It's a cultural and operational movement that empowers organizations to deliver software with greater speed, quality, and reliability. In the chapters that follow, we'll delve deeper into the practices, tools, and methodologies that constitute the DevOps ecosystem, equipping you with the knowledge and skills to embark on your own DevOps journey.
 
+For a more detailed walkthrough and additional insights, watch this comprehensive [video tutorial](https://youtu.be/0yWAtQ6wYNM?si=KDKt5kmBnRGvW71_). This video will enhance your understanding and provide practical demonstrations to complement what you've learned in this chapter.
+
 # Introduction to Version Control
 
 Version control is a foundational concept in software development and DevOps. It plays a pivotal role in managing and tracking changes to source code and other assets. In this chapter, we'll explore the significance of version control, its core principles, and how it forms the foundation for collaboration in DevOps. We'll also take a closer look at notable version control systems, including Git, GitLab, and others.
@@ -320,9 +322,8 @@ Your local and remote repositories are now synchronized!
 
 This chapter provided practical examples and essential links to kickstart your journey with Git. Git is a versatile tool that can significantly enhance your development and DevOps workflows. As you continue your DevOps learning, mastering Git will become increasingly important, as it plays a central role in collaborative and efficient software development. In the chapters that follow, we'll delve deeper into Git's advanced features and explore how it integrates with other DevOps tools and practices.
 
-Certainly, here's Chapter 5 with a focus on practical examples and links for "Basic Linux Fundamentals":
+For a more detailed walkthrough and additional insights, watch this comprehensive [video tutorial](https://youtu.be/RGOj5yH7evk?si=9WwW7SumneUDki08). This video will enhance your understanding and provide practical demonstrations to complement what you've learned in this chapter.
 
----
 
 # Basic Linux Fundamentals
 
